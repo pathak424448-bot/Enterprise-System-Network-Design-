@@ -38,6 +38,8 @@ Configure PAT to use the respective outbound router interface IPv4 address, impl
 Test Communication, ensure everything configured is working as expected.
 Technologies Implemented
 
+Technologies Implemented
+
 Creating a network topology using Cisco Packet Tracer.
 Hierarchical Network Design.
 Connecting Networking devices with Correct cabling.
@@ -55,3 +57,5 @@ Configuring WLAN or wireless network (Cisco Access Point).
 Host Device Configurations.
 Configuring ISP routers.
 Test and Verifying Network Communication.
+
+I have Followed This video (https://www.youtube.com/watch?v=eqEd84yeRxg&t=8s)
